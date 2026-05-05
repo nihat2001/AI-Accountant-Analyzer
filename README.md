@@ -32,9 +32,9 @@ Python-Dotenv (Secure Environment Management)
 
 ai_side.py: The core logic for Groq API integration and the "Financial Analyst" system prompt.
 
-main.py: The terminal-based (CLI) version for interactive data processing.
+code_side.py: The terminal-based (CLI) version for interactive data processing.
 
-app.py: The modern Streamlit dashboard featuring visual trends and real-time data metrics.
+interface.py: The modern Streamlit dashboard featuring visual trends and real-time data metrics.
 
 .env: Secret file for storing your Groq API keys (excluded via .gitignore).
 
